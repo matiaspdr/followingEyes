@@ -6,7 +6,7 @@
   <!-- <a href="https://eyes.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Eyes</h1>
+<h1 align="center">Following Eyes</h1>
 
 
 
